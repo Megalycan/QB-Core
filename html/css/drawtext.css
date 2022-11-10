@@ -13,7 +13,7 @@
     overflow: hidden;
     padding: 0;
     margin: 0;
-    font-family: "Poppins", sans-serif !important;
+    font-family: "Tahoma", sans-serif !important;
     font-weight: 300;
 }
 
@@ -35,7 +35,7 @@
         overflow: hidden;
         padding: 0;
         margin: 0;
-        font-family: "Poppins", sans-serif !important;
+        font-family: "Tahoma", sans-serif !important;
         font-weight: 300;
         font-size: 1.5vh;
     }
